@@ -1,65 +1,70 @@
-# Hi 👋, I'm Shrushti Kadam
+<h1 align="center">Hi 👋, I'm Shrushti Kadam</h1>
+<h3 align="center">AI & Data Science Engineer | Machine Learning | Deep Learning | NLP | LLM Enthusiast</h3>
 
-### Artificia Intelligence & Data Science Engineer | Machine Learning | Deep Learning | NLP | LLM Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Developer;Deep+Learning+%7C+NLP+%7C+LLMs;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-- 🎓 AI & Data Science Student
-- 🌱 Currently learning Machine Learning, Deep Learning, NLP, LLM & RAG
-- 💡 Interested in AI-powered applications and Data Science
-- 🚀 Looking for AI/ML Internship Opportunities
+🎓 AI & Data Science Student
+
+🌱 Currently Learning
+- Machine Learning
+- Deep Learning
+- NLP
+- Large Language Models (LLMs)
+- RAG
+
+💼 Looking for AI/ML Internship Opportunities
+
+🎯 Goal: Become an AI Engineer
 
 ---
 
-## 🛠️ Skills
+## 🚀 Languages
 
-### Programming
-- Python
-- SQL
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-### Libraries & Frameworks
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-learn
-- TensorFlow
-- OpenCV
-- Streamlit
+---
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
+## ⚙️ Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,flask,fastapi" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-- 🚗 Vehicle Number Plate Detection
-- 📊 IPL Data Analysis
-- 💰 Salary Prediction
-- 🎓 Student Marks Prediction
+🚗 Vehicle Number Plate Detection
+
+📊 IPL Data Analysis
+
+💰 Salary Prediction
+
+🎓 Student Marks Prediction
 
 ---
 
-## 📚 Currently Learning
+## 📫 Connect With Me
 
-- Deep Learning
-- NLP
-- Large Language Models (LLMs)
-- RAG
-- Prompt Engineering
+LinkedIn: **(Paste your LinkedIn link here)**
+
+Email: **(Paste your email here)**
 
 ---
-
-## 📫 Connect with Me
-
-- LinkedIn: https://www.linkedin.com/in/shrushti-kadam-15a2a9313/
-- Email: srushtikadam900@gmail.com
-
----
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thank you for visiting my profile!
