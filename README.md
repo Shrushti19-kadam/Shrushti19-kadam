@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrushti Kadam</h1>
-<h3 align="center">AI & Data Science Engineer | Machine Learning | Deep Learning | NLP | LLM Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;AI+%26+Machine+Learning+Developer;Deep+Learning+%7C+NLP+%7C+LLMs;Always+Learning+New+Things+🚀" />
-</p>
+<h3 align="center">
+AI & Data Science Engineer | Machine Learning | Deep Learning | NLP | LLM Enthusiast
+</h3>
 
 ---
 
@@ -14,9 +13,9 @@
 🌱 Currently Learning
 - Machine Learning
 - Deep Learning
-- NLP
+- Natural Language Processing (NLP)
 - Large Language Models (LLMs)
-- RAG
+- Retrieval-Augmented Generation (RAG)
 
 💼 Looking for AI/ML Internship Opportunities
 
@@ -24,47 +23,62 @@
 
 ---
 
-## 🚀 Languages
+## 🛠️ Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+### 💻 Programming Languages
+- Python
+- SQL
+
+### 📚 Libraries & Frameworks
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- PyTorch
+- OpenCV
+- Streamlit
+
+### ⚙️ Tools
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
 
 ---
 
-## ⚙️ Frameworks & Libraries
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,flask,fastapi" />
-</p>
+### 🚗 Vehicle Number Plate Detection
+Real-time vehicle number plate detection and OCR using OpenCV, EasyOCR and Streamlit.
+
+### 📊 IPL Data Analysis
+Exploratory Data Analysis on IPL dataset using Python, Pandas and Matplotlib.
+
+### 💰 Salary Prediction
+Machine Learning model for salary prediction using regression algorithms.
+
+### 🎓 Student Marks Prediction
+Prediction model for student performance using Machine Learning.
 
 ---
 
-## 🛠️ Tools
+## 📖 Currently Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-🚗 Vehicle Number Plate Detection
-
-📊 IPL Data Analysis
-
-💰 Salary Prediction
-
-🎓 Student Marks Prediction
+- Deep Learning
+- Computer Vision
+- NLP
+- LLM
+- RAG
+- Prompt Engineering
 
 ---
 
 ## 📫 Connect With Me
 
-LinkedIn: **(Paste your LinkedIn link here)**
-
-Email: **(Paste your email here)**
+- LinkedIn: https://www.linkedin.com/in/shrushti-kadam-15a2a9313/
+- Email: srushtikadam900@gmail.com
 
 ---
-⭐ Thank you for visiting my profile!
+
+⭐ Thanks for visiting my GitHub Profile!
