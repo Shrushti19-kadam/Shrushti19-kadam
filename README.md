@@ -107,8 +107,8 @@
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn : **YOUR_LINKEDIN_LINK**
-- 📧 Email : **YOUR_EMAIL**
+- 💼 LinkedIn : https://www.linkedin.com/in/shrushti-kadam-15a2a9313/
+- 📧 Email : srushtikadam900@gmail.com
 
 ---
 
