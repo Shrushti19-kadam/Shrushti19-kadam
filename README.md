@@ -63,14 +63,11 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shrushti19-kadam&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti19-kadam&layout=compact&theme=tokyonight"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrushti19-kadam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti19-kadam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -78,19 +75,15 @@
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Shrushti19-kadam&theme=tokyonight"/>
-
+  <img src="https://streak-stats.demolab.com?user=Shrushti19-kadam&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shrushti19-kadam&theme=tokyonight&row=1&column=6"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shrushti19-kadam&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 ---
@@ -98,12 +91,11 @@
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushti19-kadam&theme=tokyo-night"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrushti19-kadam&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
 
 # 📫 Connect With Me
 
