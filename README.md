@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Hi,+I'm+Shrushti+Kadam;AI+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;NLP+%7C+LLMs+%7C+Computer+Vision;Welcome+to+my+GitHub+Profile"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=👋+Hi,+I'm+Shrushti+Kadam;🤖+AI+%26+Data+Science+Student;🧠+Machine+Learning+%7C+Deep+Learning;💬+NLP+%7C+LLMs+%7C+Computer+Vision;🚀+Welcome+to+my+GitHub+Profile"/>
 </h1>
 
 <h3 align="center">
@@ -63,14 +63,6 @@
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrushti19-kadam&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrushti19-kadam&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 # 🔥 GitHub Streak
 
@@ -80,13 +72,7 @@
 
 ---
 
-# 🏆 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shrushti19-kadam&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
